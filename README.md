@@ -6,7 +6,7 @@
 For more information, please visit [http://support.winsms.co.za/](http://support.winsms.co.za/)
 
 > # DISCLAIMER:
-> The sample code is provided as a guideline to demonstrate how our API works. The code is provided "as is" without any guarantees. The sample code has been tested and works in our environment, results may vary in different system configurations and software programs therefore it is expected that you have sufficient technical knowledge and development skills to address any coding issues that may arise from using this sample code.
+> The SDK is provided as a guideline to accessing the WinSMS API. The code is provided "as is" without any guarantees. Depending on your environment, the SDK may not work "out-of-the-box", therefore it is expected that you have sufficient technical knowledge and development skills to address any coding issues that may arise from using this SDK.
 
 ## Requirements
 
